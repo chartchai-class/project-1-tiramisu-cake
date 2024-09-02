@@ -318,7 +318,7 @@
         { "sport": "Football", "medals": { "gold": 2, "silver": 1, "bronze": 1 } },
         { "sport": "Hockey", "medals": { "gold": 4, "silver": 1, "bronze": 4 } }
       ],
-      "information": "Argentina has a strong tradition in football and hockey, securing several medals in these team sports."
+      "information": "Argentina has a strong tradition in football and hockey, securing several medals in these team sport."
     }
   ]
 }
