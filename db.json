@@ -13,7 +13,8 @@
       "sports": [
         { "sport": "Swimming", "medals": { "gold": 25, "silver": 10, "bronze": 12 } },
         { "sport": "Athletics", "medals": { "gold": 15, "silver": 12, "bronze": 8 } }
-      ]
+      ],
+      "information": "The United States excels in a wide range of sports, especially in swimming and athletics, consistently leading the Olympic medal tally."
     },
     {
       "order": 2,
@@ -28,7 +29,8 @@
       "sports": [
         { "sport": "Table Tennis", "medals": { "gold":21, "silver": 20, "bronze": 12 } },
         { "sport": "Diving", "medals": { "gold": 17, "silver": 6, "bronze": 1 } }
-      ]
+      ],
+      "information": "China is a powerhouse in sports like table tennis and diving, often dominating these events in the Olympic Games."
     },
     {
       "order": 3,
@@ -43,7 +45,8 @@
       "sports": [
         { "sport": "Judo", "medals": { "gold": 23, "silver": 12, "bronze": 1 } },
         { "sport": "Wrestling", "medals": { "gold": 9, "silver": 1, "bronze": 9 } }
-      ]
+      ],
+      "information": "Japan has a strong presence in judo and wrestling, reflecting its deep cultural ties to these sports."
     },
     {
       "order": 4,
@@ -58,7 +61,8 @@
       "sports": [
         { "sport": "Boxing", "medals": { "gold": 10, "silver": 11, "bronze": 2 } },
         { "sport": "Wrestling", "medals": { "gold": 20, "silver": 3, "bronze": 1 } }
-      ]
+      ],
+      "information": "Russia has a rich history in boxing and wrestling, contributing to its impressive Olympic medal count."
     },
     {
       "order": 5,
@@ -73,7 +77,8 @@
       "sports": [
         { "sport": "Cycling", "medals": { "gold": 19, "silver": 16, "bronze": 14 } },
         { "sport": "Rowing", "medals": { "gold": 10, "silver": 5, "bronze": 8 } }
-      ]
+      ],
+      "information": "Great Britain is known for its strength in cycling and rowing, achieving numerous gold medals in these sports."
     },
     {
       "order": 6,
@@ -88,7 +93,8 @@
       "sports": [
         { "sport": "Canoeing", "medals": { "gold": 12, "silver": 10, "bronze": 12 } },
         { "sport": "Equestrian", "medals": { "gold": 16, "silver": 1, "bronze": 4 } }
-      ]
+      ],
+      "information": "Germany stands out in canoeing and equestrian events, consistently performing well in these Olympic disciplines."
     },
     {
       "order": 7,
@@ -103,7 +109,8 @@
       "sports": [
         { "sport": "Swimming", "medals": { "gold": 18, "silver": 4, "bronze": 15 } },
         { "sport": "Athletics", "medals": { "gold": 7, "silver": 3, "bronze": 7 } }
-      ]
+      ],
+      "information": "Australia is renowned for its success in swimming and athletics, securing many medals in these areas."
     },
     {
       "order": 8,
@@ -118,7 +125,8 @@
       "sports": [
         { "sport": "Ice Hockey", "medals": { "gold": 16, "silver": 8, "bronze": 12 } },
         { "sport": "Curling", "medals": { "gold": 8, "silver": 3, "bronze": 3 } }
-      ]
+      ],
+      "information": "Canada excels in winter sports like ice hockey and curling, reflecting its strong tradition in these disciplines."
     },
     {
       "order": 9,
@@ -133,7 +141,8 @@
       "sports": [
         { "sport": "Football", "medals": { "gold": 15, "silver": 2, "bronze": 10 } },
         { "sport": "Volleyball", "medals": { "gold": 8, "silver": 6, "bronze": 2 } }
-      ]
+      ],
+      "information": "Brazil is famous for its football and volleyball teams, earning numerous medals in these popular sports."
     },
     {
       "order": 10,
@@ -148,7 +157,8 @@
       "sports": [
         { "sport": "Fencing", "medals": { "gold": 6, "silver": 4, "bronze": 10 } },
         { "sport": "Cycling", "medals": { "gold": 16, "silver": 7, "bronze": 5 } }
-      ]
+      ],
+      "information": "France has a long-standing tradition in fencing and cycling, often leading in these sports at the Olympics."
     },
     {
       "order": 11,
@@ -163,7 +173,8 @@
       "sports": [
         { "sport": "Fencing", "medals": { "gold": 10, "silver": 5, "bronze": 4 } },
         { "sport": "Shooting", "medals": { "gold": 11, "silver": 7, "bronze": 16 } }
-      ]
+      ],
+      "information": "Italy is a strong competitor in fencing and shooting, with a significant number of Olympic medals in these sports."
     },
     {
       "order": 12,
@@ -178,7 +189,8 @@
       "sports": [
         { "sport": "Speed Skating", "medals": { "gold": 4, "silver": 2, "bronze": 3 } },
         { "sport": "Cycling", "medals": { "gold": 16, "silver": 6, "bronze": 6 } }
-      ]
+      ],
+      "information": "The Netherlands is known for its achievements in speed skating and cycling, especially in winter sports."
     },
     {
       "order": 13,
@@ -193,7 +205,8 @@
       "sports": [
         { "sport": "Taekwondo", "medals": { "gold": 12, "silver": 4, "bronze": 3 } },
         { "sport": "Archery", "medals": { "gold": 6, "silver": 4, "bronze": 4 } }
-      ]
+      ],
+      "information": "South Korea excels in taekwondo and archery, consistently winning medals in these traditional sports."
     },
     {
       "order": 14,
@@ -208,7 +221,8 @@
       "sports": [
         { "sport": "Basketball", "medals": { "gold": 12, "silver": 1, "bronze": 1 } },
         { "sport": "Football", "medals": { "gold": 5, "silver": 5, "bronze": 10 } }
-      ]
+      ],
+      "information": "Spain has a strong presence in basketball and football, often securing top positions in these events."
     },
     {
       "order": 15,
@@ -223,7 +237,8 @@
       "sports": [
         { "sport": "Rowing", "medals": { "gold": 10, "silver": 2, "bronze": 3 } },
         { "sport": "Sailing", "medals": { "gold": 5, "silver": 5, "bronze": 5 } }
-      ]
+      ],
+      "information": "New Zealand: New Zealand is known for its success in rowing and sailing, earning medals in these water sports."
     },
     {
       "order": 16,
@@ -238,7 +253,8 @@
       "sports": [
         { "sport": "Swimming", "medals": { "gold": 11, "silver": 2, "bronze": 2 } },
         { "sport": "Athletics", "medals": { "gold": 2, "silver": 1, "bronze": 3 } }
-      ]
+      ],
+      "information": "South Africa is noted for its achievements in swimming and athletics, particularly in the Olympic Games."
     },
     {
       "order": 17,
@@ -253,7 +269,8 @@
       "sports": [
         { "sport": "Cross-Country Skiing", "medals": { "gold": 3, "silver": 2, "bronze": 4 } },
         { "sport": "Wrestling", "medals": { "gold": 9, "silver": 2, "bronze": 2 } }
-      ]
+      ],
+      "information": "Sweden excels in cross-country skiing and wrestling, with a rich history in these Olympic sports."
     },
     {
       "order": 18,
@@ -268,7 +285,8 @@
       "sports": [
         { "sport": "Cross-Country Skiing", "medals": { "gold": 6, "silver": 4, "bronze": 1 } },
         { "sport": "Ski Jumping", "medals": { "gold": 4, "silver": 4, "bronze": 4 } }
-      ]
+      ],
+      "information": "Norway is a dominant force in cross-country skiing and ski jumping, excelling in winter sports at the Olympics."
     },
     {
       "order": 19,
@@ -283,7 +301,8 @@
       "sports": [
         { "sport": "Weightlifting", "medals": { "gold": 6, "silver": 2, "bronze": 3 } },
         { "sport": "Wrestling", "medals": { "gold": 3, "silver": 5, "bronze": 5 } }
-      ]
+      ],
+      "information": "Turkey is known for its strength in weightlifting and wrestling, contributing to its Olympic success."
     },
     {
       "order": 20,
@@ -298,7 +317,8 @@
       "sports": [
         { "sport": "Football", "medals": { "gold": 2, "silver": 1, "bronze": 1 } },
         { "sport": "Hockey", "medals": { "gold": 4, "silver": 1, "bronze": 4 } }
-      ]
+      ],
+      "information": "Argentina has a strong tradition in football and hockey, securing several medals in these team sports."
     }
   ]
 }
